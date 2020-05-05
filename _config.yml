@@ -1,0 +1,18 @@
+title: Francesco Piccoli # your name (or website title) here
+logo: "/images/profile1.png?raw=true" # your photo (or logo) here
+description: > # your text below (remove <br> elements if you don't need line breaks)
+  Data Enthusiast, Startups passionate 
+  <br><br>
+  I’m an Italian Engineer now pursuing a Master of Engineering with a focus on Data Analytics and Machine Learning. I love languages (I speak 5!), sports, and delicious food. 
+  <br>
+  <a href='https://www.linkedin.com/in/francesco-piccoli'>
+  <img src="/images/linkedin.png?raw=true" width="30" height="30">
+  </a>
+  <a href='https://github.com/Francesco-Piccoli'>
+  <img src="/images/github.png?raw=true" width="30" height="30">
+  </a>
+  <a href='https://www.instagram.com/francescopiccoli.fp/?hl=en'>
+  <img src="/images/instagram.png?raw=true" width="30" height="30">
+  </a>
+theme: jekyll-theme-minimal
+google_analytics: UA-159981308-1 # your Google Analytics tracking ID here
