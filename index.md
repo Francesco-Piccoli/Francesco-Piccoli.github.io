@@ -50,7 +50,7 @@
 
 [Volvo Cars: Pedestrian Intention Recognition](/volvo)
 <p align='center'>
-    <img src="images/modelB2.gif?raw=true" width="300" height="250"/>
+    <img src="images/modelC1.gif?raw=true" width="300" height="250"/>
 </p>
 ---
 
