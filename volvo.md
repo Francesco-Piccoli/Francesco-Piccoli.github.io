@@ -13,7 +13,7 @@ Website:
 End-to-end architecture results
 </p>
 <p align='center'>
-<img src="images/modelB2.gif?raw=true" width="400" height="275"/>
+<img src="images/modelC1.gif?raw=true" width="400" height="275"/>
 </p>
 **Project description:** 
 <br>
@@ -27,13 +27,6 @@ Website Interface
 <a href='https://matthew29tang.github.io/pid-model/#/'>
 <img src="images/volvo_website.JPG?raw=true" width="500" height="325"/>
 </a>
-</p>
-<br><br>
-<p align='center'>
-End-to-end architecture results
-</p>
-<p align='center'>
-<img src="images/modelB1.gif?raw=true" width="400" height="275"/>
 </p>
 <br><br>
 <p align='center'>
