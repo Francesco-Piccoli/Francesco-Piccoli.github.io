@@ -36,34 +36,34 @@
 
 [Dynamic Visualization of Cryptocurrency Information](/crydata)
 <p align='center'>
-    <img src="images/website.JPG?raw=true" width="300" height="200"/>
+    <img src="images/website.JPG?raw=true" width="400" height="220"/>
 </p>
 
 ---
 
 [Historical analysis for live anomaly detection on Ripple's Blockchain](/ripple)
 <p align='center'>
-    <img src="images/ripple.png?raw=true" width="250" height="150"/>
+    <img src="images/ripple.png?raw=true" width="400" height="220"/>
 </p>
 
 ---
 
 [Volvo Cars: Pedestrian Intention Recognition](/volvo)
 <p align='center'>
-    <img src="images/modelC1.gif?raw=true" width="300" height="250"/>
+    <img src="images/modelC1.gif?raw=true" width="400" height="220"/>
 </p>
 ---
 
 [RoBin: Robotic Bin](/robin)
 <p align='center'>
-    <img src="images/robin.png?raw=true" width="300" height="250"/>
+    <img src="images/robin.png?raw=true" width="400" height="220"/>
 </p>
 ---
 
 [Neural networks for modelling and guidance
 of unmanned aerial vehicles (UAVs) in urban environments](/sample_page)
 <p align='center'>
-    <img src="images/bt.gif?raw=true" width="250" height="150"/>
+    <img src="images/bt.gif?raw=true" width="400" height="220"/>
 </p>
 ---
 
