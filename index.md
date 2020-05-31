@@ -6,6 +6,7 @@
 - [Experience](#experience)
 - [Portfolio](#portfolio)
 - [Motivations](#motivations)
+- [Featured](#featured)
 - [Awards](#awards)
 - <a href="/pdf/Francesco Piccoli Resume.pdf" download>My Resume</a>
 
@@ -73,6 +74,10 @@ Since I was young, I’ve always been the kind of guy that needed to know what t
 
 Data is useful if someone analyzes it and learn something from it, otherwise it’s just electricity and environmental costs. Recent development in the field of computer vision and machine learning makes this period super fascinating for people like me. What drives me is the belief that data can be used to make better decisions, which can lead to financial returns, but most importantly to strong impacts on our society and the world we live in.
 
+## Featured
+- [Francesco Piccoli wins 2020 Intellectual Leadership Contribution Award](https://medium.com/the-coleman-fung-institute/francesco-piccoli-wins-2020-intellectual-leadership-contribution-award-ef2ff003bb11)
+- [Arthur De Bono's PAM series](https://www.linkedin.com/feed/update/urn:li:activity:6636323944381067264/)
+- [Humans of Fung](https://www.linkedin.com/feed/update/urn:li:activity:6621131830164885504/)
 
 ## Awards
 
