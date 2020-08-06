@@ -8,7 +8,7 @@
 - [Motivations](#motivations)
 - [Featured](#featured)
 - [Awards](#awards)
-- <a href="/pdf/Francesco Piccoli Resume.pdf" download>My Resume</a>
+- <a href="/pdf/Francesco Piccoli - Resume.pdf" download>My Resume</a>
 
 ## Education
 
