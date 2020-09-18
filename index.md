@@ -24,6 +24,7 @@
 
 ## Experience
 
+- [AnChain.AI](https://www.anchain.ai/): Data Scientist Intern <br>
 - [Ripple](https://ripple.com/): Data Scientist - Team Lead, UC Berkeley MEng Capstone project <br>
 - [Volvo Cars](https://www.volvocars.com/us): Deep Learning Researcher, Data-X Capstone project <br>
 - [Haas Impact Fund](https://haas.berkeley.edu/ibsi/initiatives/curriculum/haas-impact-fund/): Founding Venture Partner <br>
@@ -32,6 +33,13 @@
 
 
 ## Portfolio
+
+---
+
+[Volvo Cars: Pedestrian Intention Recognition](/volvo)
+<p align='center'>
+    <img src="images/modelC1.gif?raw=true" width="400" height="220"/>
+</p>
 
 ---
 
@@ -47,12 +55,6 @@
     <img src="images/ripple.png?raw=true" width="400" height="220"/>
 </p>
 
----
-
-[Volvo Cars: Pedestrian Intention Recognition](/volvo)
-<p align='center'>
-    <img src="images/modelC1.gif?raw=true" width="400" height="220"/>
-</p>
 ---
 
 [RoBin: Robotic Bin](/robin)
@@ -81,6 +83,7 @@ Data is useful if someone analyzes it and learn something from it, otherwise itâ
 
 ## Awards
 
+- 2020 MEng Intellectual Leadership Contribution Award, UC Berkeley
 - 2019-2020: MEng Opportunity Grant, UC Berkeley 
 - 2019: Best Enterprise Idea - XPring Blockchain Interoperability Hackathon
 - 2019: Winner of the scolarship â€œEU/Young Talents Mobility Program"
@@ -91,7 +94,3 @@ Data is useful if someone analyzes it and learn something from it, otherwise itâ
 - 2016: "Francesco Viviani" Award for graduating from high school with full marks
 - 2014: WEP scholarship to spend a semester of high school in Corpus Christi, Texas.
 
-
----
-<p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
-<!-- Remove above link if you don't want to attibute -->
