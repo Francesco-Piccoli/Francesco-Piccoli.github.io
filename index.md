@@ -24,6 +24,7 @@
 
 ## Experience
 
+- [AnChain.AI](https://www.anchain.ai/): Product Manager <br>
 - [AnChain.AI](https://www.anchain.ai/): Data Scientist Intern <br>
 - [Ripple](https://ripple.com/): Data Scientist - Team Lead, UC Berkeley MEng Capstone project <br>
 - [Volvo Cars](https://www.volvocars.com/us): Deep Learning Researcher, Data-X Capstone project <br>
